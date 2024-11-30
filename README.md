@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolsbin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
