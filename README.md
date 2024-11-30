@@ -34,15 +34,15 @@
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolsbin)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+<!--
 ---
 
 ## 🏆 **GitHub Trophies**
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-bg=true)
-
+-->
 ---
 
 ## 🌍 **Visitor Count**
